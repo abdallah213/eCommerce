@@ -1,0 +1,12 @@
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\bin\Debug\net9.0\eCommerceApp.Application.deps.json
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\bin\Debug\net9.0\eCommerceApp.Application.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\bin\Debug\net9.0\eCommerceApp.Application.pdb
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.AssemblyInfoInputs.cache
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.AssemblyInfo.cs
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.csproj.CoreCompileInputs.cache
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.sourcelink.json
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\refint\eCommerceApp.Application.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\eCommerceApp.Application.pdb
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Application\obj\Debug\net9.0\ref\eCommerceApp.Application.dll
