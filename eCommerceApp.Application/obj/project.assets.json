@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "eCommerceApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/eCommerceApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/eCommerceApp.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "eCommerceApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../eCommerceApp.Domain/eCommerceApp.Domain.csproj",
+      "msbuildProject": "../eCommerceApp.Domain/eCommerceApp.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "eCommerceApp.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Abdullah\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\كورسات\\Projects\\eCommerceAppSolution\\eCommerceApp.Domain\\eCommerceApp.Domain.csproj": {
+              "projectPath": "D:\\كورسات\\Projects\\eCommerceAppSolution\\eCommerceApp.Domain\\eCommerceApp.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

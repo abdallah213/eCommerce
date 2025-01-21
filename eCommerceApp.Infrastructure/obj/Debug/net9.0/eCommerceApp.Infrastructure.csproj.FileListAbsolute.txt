@@ -10,3 +10,4 @@ D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\De
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net9.0\refint\eCommerceApp.Infrastructure.dll
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net9.0\eCommerceApp.Infrastructure.pdb
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net9.0\ref\eCommerceApp.Infrastructure.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Infrastructure\obj\Debug\net9.0\eCommerceApp.Infrastructure.csproj.AssemblyReference.cache
