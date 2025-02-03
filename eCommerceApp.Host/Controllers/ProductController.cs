@@ -29,7 +29,10 @@ namespace eCommerceApp.Host.Controllers
         [HttpPost("add")]
         public async Task<IActionResult> Add(CreateProduct product)
         {
-           var result = await _productServ.AddAsync(product);
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var result = await _productServ.AddAsync(product);
 
             return result.Success ? Ok(result) : BadRequest(result);
         }
@@ -37,6 +40,9 @@ namespace eCommerceApp.Host.Controllers
         [HttpPut("update")]
         public async Task<IActionResult> Update(UpdateProduct product)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             var result = await _productServ.UpdateAsync(product);
 
             return result.Success ? Ok(result) : BadRequest(result);

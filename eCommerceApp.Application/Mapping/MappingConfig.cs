@@ -13,10 +13,13 @@ namespace eCommerceApp.Application.Mapping
             CreateMap<CreateProduct, Product>();
             CreateMap<UpdateProduct, Product>();
             CreateMap<UpdateCategory, Category>();
+            CreateMap<GetCategory, Category>();
 
 
             CreateMap<Category , CreateCategory>();
+            CreateMap<Category , GetCategory>();
             CreateMap<Product , CreateProduct>();
+            CreateMap<Product , GetProduct>();
         }
     }
 }
