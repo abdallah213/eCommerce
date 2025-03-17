@@ -34,6 +34,9 @@ namespace eCommerceApp.Infrastructure.DependencyInjection
                     sqlOptions.EnableRetryOnFailure();
                 }).UseExceptionProcessor(),
                 ServiceLifetime.Scoped);
+
+
+
             services.AddScoped<IGeneric<Product>, GenericRepository<Product>>();
             services.AddScoped<IGeneric<Category>, GenericRepository<Category>>();
             services.AddScoped(typeof(IAppLogger<>), typeof(SerilogLoggerAdapter<>));

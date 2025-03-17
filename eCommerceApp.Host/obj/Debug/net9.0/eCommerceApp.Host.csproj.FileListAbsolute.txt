@@ -174,3 +174,9 @@ D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\obj\Debug\net9.0
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\obj\Debug\net9.0\refint\eCommerceApp.Host.dll
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\obj\Debug\net9.0\eCommerceApp.Host.genruntimeconfig.cache
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\obj\Debug\net9.0\ref\eCommerceApp.Host.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\bin\Debug\net9.0\FluentValidation.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.UI.dll

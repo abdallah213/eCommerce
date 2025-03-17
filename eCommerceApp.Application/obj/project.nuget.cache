@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VdWvAPw8gVY=",
+  "dgSpecHash": "ClcDGNWcxxs=",
   "success": true,
   "projectFilePath": "D:\\كورسات\\Projects\\eCommerceAppSolution\\eCommerceApp.Application\\eCommerceApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Abdullah\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\9.0.1\\microsoft.aspnetcore.cryptography.internal.9.0.1.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\9.0.1\\microsoft.aspnetcore.cryptography.keyderivation.9.0.1.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.1\\microsoft.extensions.caching.abstractions.9.0.1.nupkg.sha512",

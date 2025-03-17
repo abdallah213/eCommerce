@@ -1,5 +1,53 @@
 [
   {
+    "ContainingType": "eCommerceApp.Host.Controllers.AuthenticationController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Authentication/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "eCommerceApp.Application.DTOs.Identity.CreateUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eCommerceApp.Host.Controllers.AuthenticationController",
+    "Method": "LoginUser",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "eCommerceApp.Application.DTOs.Identity.LoginUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "eCommerceApp.Host.Controllers.AuthenticationController",
+    "Method": "ReviveToken",
+    "RelativePath": "api/Authentication/refreshToken/{refreshToken}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshToken",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "eCommerceApp.Host.Controllers.CategoryController",
     "Method": "GetProductById",
     "RelativePath": "api/Category/{id}",

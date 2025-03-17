@@ -1,0 +1,20 @@
+2025-03-17 02:21:07.559 +02:00 [INF] Application is building.....
+2025-03-17 02:21:07.695 +02:00 [ERR] Application faild to start....
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at eCommerceApp.Host.Program.Main(String[] args) in D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\Program.cs:line 39
+2025-03-17 02:21:36.690 +02:00 [INF] Application is building.....
+2025-03-17 02:21:36.805 +02:00 [ERR] Application faild to start....
+Microsoft.Extensions.Hosting.HostAbortedException: The host was aborted.
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.ThrowHostAborted()
+   at Microsoft.Extensions.Hosting.HostFactoryResolver.HostingListener.OnNext(KeyValuePair`2 value)
+   at System.Diagnostics.DiagnosticListener.Write(String name, Object value)
+   at Microsoft.Extensions.Hosting.HostBuilder.ResolveHost(IServiceProvider serviceProvider, DiagnosticListener diagnosticListener)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at eCommerceApp.Host.Program.Main(String[] args) in D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Host\Program.cs:line 39

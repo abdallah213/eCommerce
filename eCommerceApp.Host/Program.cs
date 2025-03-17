@@ -30,7 +30,7 @@ namespace eCommerceApp.Host
                 {
                     options.AllowAnyHeader()
                     .AllowAnyMethod()
-                    .WithOrigins()
+                    .WithOrigins("https://localhost:7268")
                     .AllowCredentials();
                 });
             });

@@ -10,3 +10,4 @@ D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net9
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net9.0\refint\eCommerceApp.Domain.dll
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net9.0\eCommerceApp.Domain.pdb
 D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net9.0\ref\eCommerceApp.Domain.dll
+D:\كورسات\Projects\eCommerceAppSolution\eCommerceApp.Domain\obj\Debug\net9.0\eCommerceApp.Domain.csproj.AssemblyReference.cache
